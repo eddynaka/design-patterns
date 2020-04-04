@@ -1,4 +1,5 @@
-namespace Exercises.People {
+namespace Exercises.People
+{
     public class AxeBehavior : IWeaponBehavior
     {
         public void UseWeapon()
